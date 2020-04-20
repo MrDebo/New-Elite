@@ -10,6 +10,10 @@
 <li><code>$ cd New-Elite</code></li>
 <li><code>$ ls</code></li>
 <li><code>$ python2 dark.py</code></li>
+<ul>
+<li><code> Silahkan download lewat gogle chroom! </code></li>
+<li><code> Username & Pasword  : https://sfile.mobi/4RCHwHMq7Sy </code></li>
+<li><code> Nih biar ga kena Cp : https://sfile.mobi/317XY3Jf8cN</code></li>
 </ul>
 <br />
 <br />
