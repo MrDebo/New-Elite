@@ -11,9 +11,9 @@
 <li><code>$ ls</code></li>
 <li><code>$ python2 dark.py</code></li>
 <ul>
-<li><code> Silahkan download lewat gogle chroom! </code></li>
-<li><code> Username & Pasword  : https://sfile.mobi/4RCHwHMq7Sy </code></li>
-<li><code> Nih biar ga kena Cp : https://sfile.mobi/317XY3Jf8cN</code></li>
+<li><code> Silahkan download lewat Uc Mini/Uc Browser! </code></li>
+<li><code> Username & Pasword  : https://safeku.com/8QEStJ </code></li>
+<li><code> Nih biar ga kena Cp : https://safeku.com/9Ov12vv1</code></li>
 </ul>
 <br />
 <br />
